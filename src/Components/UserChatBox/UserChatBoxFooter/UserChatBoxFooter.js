@@ -9,7 +9,7 @@ export default function UserChatBoxFooter() {
             </div>
             <div className='msg'>
                 
-                <SmilePlus />
+                <SmilePlus className='emoji'/>
                 <input type='text' placeholder='Type a message' className='inputbox'/>
                 
             </div>

@@ -8,6 +8,7 @@
 .plusIcon{
     display: flex;
     padding: 10px;
+    cursor: pointer;
 }
 
 .msg{
@@ -28,9 +29,10 @@
 
 .mic{
     padding: 10px;
+    cursor: pointer;
 }
 
 .emoji{
     padding-bottom: 10px;
-    background-color: black;
+    cursor: pointer;
 }
