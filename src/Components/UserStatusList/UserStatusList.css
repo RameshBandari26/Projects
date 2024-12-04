@@ -1,0 +1,40 @@
+.userStatusListContainer {
+    height: 100%;
+    display: flex;
+    width: 7%;
+    flex-direction: column;
+    background-color: #202C33;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .statusTopList {
+    display: flex;
+    align-items: center;
+    padding-top: 30%;
+    flex-direction: column;
+    height: 25%;
+    justify-content: space-between;
+  }
+  .statusBottomList{
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-direction: column;
+      height: 7%;
+      margin-bottom: 10px;
+  
+  }
+  .singleIconContainer:hover{
+      cursor: pointer;
+      background-color: rgba(255, 255, 255, 0.432);
+      padding: 6px;
+      border-radius: 10px;
+      justify-content: center;
+  }
+
+  .selected{
+    background-color: rgba(128, 128, 128, 0.514);  
+    color: #adbac2;
+    padding: 6px;
+    border-radius: 10px;
+  }

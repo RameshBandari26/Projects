@@ -1,0 +1,23 @@
+.UserChatListHeaderContainer{
+    height: 45px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 8px;
+    
+}
+.text{
+    font-size: x-large;
+    font-weight: 700;
+    color: #edede5;
+    text-align: center;
+    justify-content: center;
+}
+
+.icons{
+    width: 18%;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+

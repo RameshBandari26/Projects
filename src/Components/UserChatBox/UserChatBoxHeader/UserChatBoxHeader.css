@@ -1,0 +1,35 @@
+.UserChatBoxHeader{
+    height: 45px;
+    display: flex;
+    background-color: #1f2c34;
+    padding: 8px;
+    justify-content: space-between;
+}
+
+.left{
+    display: flex;
+}
+
+.profile{
+    display: flex;
+    height: fit-content;
+    padding: 6px;
+    
+}
+
+.userName{
+    font-weight: 500;
+    padding: 10px;
+   
+}
+
+.right{
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    padding: 10px;
+}
+
+.icons{
+    cursor: pointer;
+}

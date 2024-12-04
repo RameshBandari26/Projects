@@ -1,0 +1,36 @@
+.UserChatBoxFooter{
+    height: 20px;
+    display: flex;
+    background-color: #1f2c34;
+    padding: 8px;
+}
+
+.plusIcon{
+    display: flex;
+    padding: 10px;
+}
+
+.msg{
+    width: 88%;
+    display: flex;
+    background-color: #2b3942;
+    padding: 13px;
+    height: 15px;
+    border-radius: 6px;
+    justify-content: space-around;
+}
+
+.inputbox{
+    background-color: #2b3942;
+    border: none;
+    border-radius: 6px;
+}
+
+.mic{
+    padding: 10px;
+}
+
+.emoji{
+    padding-bottom: 10px;
+    background-color: black;
+}

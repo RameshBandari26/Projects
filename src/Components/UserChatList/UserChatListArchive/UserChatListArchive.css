@@ -1,0 +1,17 @@
+.UserChatListArchive{
+    height: 35px;
+    display: flex;
+    padding: 10px;
+}
+
+.text{
+    padding-left: 15px;
+    font-size: medium;
+    font-weight:400;
+    
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+}

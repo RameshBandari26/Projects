@@ -1,0 +1,33 @@
+.UserChatListSearchBar{
+    height: 40pxpx;
+    display: flex;
+    flex-direction: column;
+}
+input{
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    background-color: #1f2c34;
+    outline: none;
+    color: white;
+    
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #1f2c34;
+    padding: 2px;
+    border: none;
+    border-radius: 6px;
+}
+
+.searchIcon{
+    width: 15px;
+    height: 15px;
+    color: #748c98;
+    padding-top: 9px;
+}
+
